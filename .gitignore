@@ -1,0 +1,14 @@
+# Virtual environment
+facila_embeded_virtual_env/
+
+# Large raw face database (use compact version)
+face_db.npz
+
+# Image datasets
+unknown/
+screenshots/
+
+# OS & Jupyter junk
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
