@@ -12,3 +12,9 @@ screenshots/
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
+
+# Models dataset
+models/dataset/
+
+# Duplicate model file
+models/facenet.tflite
