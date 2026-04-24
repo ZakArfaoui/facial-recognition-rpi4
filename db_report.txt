@@ -1,0 +1,8 @@
+barhoumi_rami: 7460 embeddings (skipped=473)
+zkaria_arfaoui: 6501 embeddings (skipped=1696)
+Saved DB: face_db.npz
+TOTAL used embeddings: 13961
+TOTAL skipped images: 2169
+Unknown tuning used. best-sim mean=0.369, max=0.946
+Auto threshold (quantile=0.99): 0.745
+Unknown skipped images: 1641

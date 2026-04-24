@@ -1,0 +1,15 @@
+{
+  "threshold": 0.5041418671607971,
+  "quantile": 0.99,
+  "model_path": "models\\facenet.tflite",
+  "db_path": "face_db_compact.npz",
+  "unknown_dir": "unknown",
+  "input_norm": "(rgb-127.5)/128.0",
+  "embedding_dim": 512,
+  "unknown_stats": {
+    "usable": 6832,
+    "skipped": 1641,
+    "mean_best_sim": 0.12505914270877838,
+    "max_best_sim": 0.8706685900688171
+  }
+}

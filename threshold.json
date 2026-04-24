@@ -1,0 +1,11 @@
+{
+  "threshold": 0.7450294220447508,
+  "model_path": "models\\facenet.tflite",
+  "known_dir": "models\\dataset",
+  "unknown_dir": "unknown",
+  "input_norm": "(rgb-127.5)/128.0",
+  "embedding_dim": 512,
+  "max_imgs_per_person": null,
+  "max_unknown_imgs": null,
+  "unknown_reject_quantile": 0.99
+}
